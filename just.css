@@ -1,0 +1,27 @@
+h2{
+    font-weight: normal;
+    font-family: 'Times new roman', serif;
+}
+html{
+    background-color: rgb(26, 35, 116);
+    font-size: 12pt;
+    color: rgb(229,195,259);
+}
+h1,h2{
+    color: rgb(201, 244, 255);
+    text-align: center;
+}
+.title{
+    font-weight: bold;
+    font-family: 'Caveat', cursive;
+    font-size: 1.5rem;
+    color: rgb(201, 244, 255);
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
+.price{
+    color: rgb(85, 217, 250);
+    text-indent: 1pc;
+}
